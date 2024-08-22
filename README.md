@@ -30,11 +30,9 @@ I deploy all my projects in Docker, but this time I'm trying to use a local envi
       
      ![Screenshot from 2024-08-22 20-54-18](https://github.com/user-attachments/assets/300cebba-bf42-42bd-b122-20fdc62eaf6d)
 
+How to use PostgreSQL with DBeaver:
 
-How to use postgreSQL with dbeaver:
-
-![image](https://github.com/user-attachments/assets/9a7b5d70-188e-47b8-b26d-df2090d31941)
-
+![Screenshot from 2024-08-22 20-58-59](https://github.com/user-attachments/assets/c15f24a6-616d-4791-be99-09b617eea714)
 
 Airflow:
 
