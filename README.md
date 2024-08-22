@@ -23,8 +23,11 @@ I deploy all my projects in Docker, but this time I'm trying to use a local envi
     --role Admin \
     --email admin@example.com
   7. mkdir dags
+     
      ![Screenshot from 2024-08-22 20-42-06](https://github.com/user-attachments/assets/327e7fcc-3c6d-4467-8a2f-2179bee9e428)
-  8. Start your Airflow:
+     
+  9. Start your Airflow:
+      
      ![image](https://github.com/user-attachments/assets/01d68d30-fb09-400b-9ba8-72bbb56bbacc)
 
 How to use postgreSQL with dbeaver:
