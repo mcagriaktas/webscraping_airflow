@@ -28,7 +28,8 @@ I deploy all my projects in Docker, but this time I'm trying to use a local envi
      
   9. Start your Airflow:
       
-     ![image](https://github.com/user-attachments/assets/01d68d30-fb09-400b-9ba8-72bbb56bbacc)
+     ![Screenshot from 2024-08-22 20-54-18](https://github.com/user-attachments/assets/300cebba-bf42-42bd-b122-20fdc62eaf6d)
+
 
 How to use postgreSQL with dbeaver:
 
